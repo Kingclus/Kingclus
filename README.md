@@ -4,7 +4,7 @@
 ### Electronics Engineer |  Systems developer
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile%21;AI%2FML+Engineer;Backend+Developer;Systems+Engineer;Building+Cool+Stuff;Student+%26+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile%21;Electronics Engineer;AI%2FML+Engineer;Backend+Developer;Systems+Engineer;Building+Cool+Stuff;Student+%26+Coder" alt="Typing SVG" />
 </h2>
 </div>
 
